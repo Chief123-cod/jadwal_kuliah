@@ -46,7 +46,7 @@ table th {
 }
 
 
-@media (max-width: 600px) {s
+@media (max-width: 600px) {
     .container {
         padding: 15px;
     }
